@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+59 km al SE de Arica,-18.710 ,-69.814,2023-04-09,19:23:34,2023-04-09,23:23:34,106,km,2.9,Ml
+46 km al SO de Los Vilos,-32.268 ,-71.749,2023-04-09,15:58:18,2023-04-09,19:58:18,35,km,3.2,Ml
+76 km al SE de Socaire,-24.054 ,-67.343,2023-04-09,15:56:45,2023-04-09,19:56:45,216,km,3.6,Ml
+32 km al S de Mina Collahuasi,-21.117 ,-68.635,2023-04-09,14:50:34,2023-04-09,18:50:34,111,km,2.8,Ml
+166 km al O de ValparaÃ­so,-32.620 ,-73.320,2023-04-09,08:30:15,2023-04-09,12:30:15,13,km,3.3,Ml
+17 km al NE de Sierra Gorda.,-22.763 ,-69.248,2023-04-09,05:44:09,2023-04-09,09:44:09,83,km,3.3,Ml
+13 km al S de Cuya,-19.277 ,-70.203,2023-04-09,01:24:34,2023-04-09,05:24:34,43,km,4.3,Ml
+8 km al SO de La Ligua,-32.493 ,-71.295,2023-04-08,21:32:04,2023-04-09,01:32:04,68,km,2.8,Ml
