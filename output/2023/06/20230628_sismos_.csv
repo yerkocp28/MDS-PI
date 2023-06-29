@@ -1,0 +1,4 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+29 km al O de OllagÃ¼e,-21.184 ,-68.530,2023-06-28,15:53:10,2023-06-28,19:53:10,130,km,2.7,Ml
+99 km al NE de Socaire,-23.033 ,-67.131,2023-06-28,06:54:35,2023-06-28,10:54:35,282,km,3.6,Ml
+61 km al E de La Higuera,-29.385 ,-70.589,2023-06-28,05:32:29,2023-06-28,09:32:29,82,km,2.6,Ml
