@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+29 km al O de Navidad,-33.890 ,-72.134,2023-07-08,18:13:55,2023-07-08,22:13:55,24,km,2.5,Ml
+66 km al NE de Calama,-21.931 ,-68.673,2023-07-08,14:16:25,2023-07-08,18:16:25,132,km,2.6,Ml
+68 km al SE de Mina La Escondida.,-24.793 ,-68.716,2023-07-08,13:49:02,2023-07-08,17:49:02,102,km,3.0,Ml
+45 km al S de Mina Collahuasi,-21.218 ,-68.782,2023-07-08,12:18:17,2023-07-08,16:18:17,108,km,2.7,Ml
+39 km al O de Los Vilos,-31.839 ,-71.916,2023-07-08,11:03:12,2023-07-08,15:03:12,34,km,3.0,Ml
+100 km al E de Socaire,-23.553 ,-66.914,2023-07-08,05:03:31,2023-07-08,09:03:31,221,km,3.6,Ml
+20 km al SE de Los Vilos,-32.075 ,-71.430,2023-07-07,23:52:52,2023-07-08,03:52:52,69,km,4.0,Ml
+37 km al O de Taltal,-25.506 ,-70.836,2023-07-07,20:41:37,2023-07-08,00:41:37,31,km,3.6,Ml
