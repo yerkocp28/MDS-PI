@@ -1,0 +1,7 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+29 km al O de Cochrane,-47.141 ,-72.914,2023-07-24,12:15:04,2023-07-24,16:15:04,25,km,2.7,Ml
+97 km al NO de Tongoy,-29.675 ,-72.243,2023-07-24,08:41:26,2023-07-24,12:41:26,17,km,2.9,Ml
+37 km al E de Rancagua,-34.077 ,-70.354,2023-07-24,04:24:05,2023-07-24,08:24:05,6,km,3.9,Ml
+37 km al E de Sierra Gorda.,-22.927 ,-68.953,2023-07-24,04:12:09,2023-07-24,08:12:09,105,km,3.6,Ml
+51 km al NO de Quillagua,-21.272 ,-69.806,2023-07-24,00:22:37,2023-07-24,04:22:37,19,km,2.6,Ml
+68 km al N de Calama,-21.873 ,-68.802,2023-07-23,22:16:03,2023-07-24,02:16:03,100,km,3.3,Ml
