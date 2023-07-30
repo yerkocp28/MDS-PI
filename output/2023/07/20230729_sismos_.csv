@@ -1,0 +1,7 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+53 km al O de Taltal,-25.407 ,-71.014,2023-07-29,19:09:45,2023-07-29,23:09:45,34,km,3.0,Ml
+46 km al SO de Mina Collahuasi,-21.147 ,-68.944,2023-07-29,15:48:44,2023-07-29,19:48:44,107,km,2.8,Ml
+20 km al NO de La Higuera,-29.379 ,-71.343,2023-07-29,15:16:11,2023-07-29,19:16:11,42,km,3.0,Ml
+32 km al O de Canela Baja,-31.423 ,-71.793,2023-07-29,07:38:08,2023-07-29,11:38:08,26,km,2.5,Ml
+48 km al N de Huasco,-28.043 ,-71.110,2023-07-29,05:03:15,2023-07-29,09:03:15,59,km,2.6,Ml
+16 km al NE de Huasco,-28.346 ,-71.121,2023-07-29,02:50:56,2023-07-29,06:50:56,46,km,2.8,Ml
