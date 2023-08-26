@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+116 km al E de Socaire,-23.940 ,-66.821,2023-08-25,12:12:15,2023-08-25,16:12:15,216,km,3.8,Ml
+65 km al O de La Higuera,-29.449 ,-71.873,2023-08-25,11:46:26,2023-08-25,15:46:26,42,km,3.2,Ml
+35 km al NE de Huasco,-28.218 ,-71.003,2023-08-25,09:29:40,2023-08-25,13:29:40,41,km,3.2,Ml
+101 km al SE de OllagÃ¼e,-21.854 ,-67.553,2023-08-25,09:16:10,2023-08-25,13:16:10,238,km,3.2,Ml
+14 km al E de Pica,-20.534 ,-69.200,2023-08-25,06:39:51,2023-08-25,10:39:51,105,km,3.6,Ml
+37 km al N de La Higuera,-29.196 ,-71.308,2023-08-25,03:38:29,2023-08-25,07:38:29,51,km,2.7,Ml
+83 km al SE de Tierra Amarilla,-27.980 ,-69.642,2023-08-25,01:52:50,2023-08-25,05:52:50,132,km,3.1,Ml
+50 km al N de Mina Collahuasi,-20.407 ,-68.819,2023-08-25,00:13:20,2023-08-25,04:13:20,111,km,3.8,Ml
