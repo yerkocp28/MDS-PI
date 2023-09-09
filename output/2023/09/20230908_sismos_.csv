@@ -1,0 +1,8 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+74 km al O de Iquique,-20.238 ,-70.860,2023-09-08,18:41:07,2023-09-08,21:41:07,39,km,2.5,Ml
+39 km al SO de OllagÃ¼e,-21.542 ,-68.421,2023-09-08,16:53:58,2023-09-08,19:53:58,129,km,3.2,Ml
+15 km al O de Ovalle,-30.556 ,-71.353,2023-09-08,16:27:34,2023-09-08,19:27:34,63,km,3.1,Ml
+30 km al S de Pica,-20.761 ,-69.330,2023-09-08,04:13:18,2023-09-08,07:13:18,102,km,2.8,Ml
+26 km al SE de Mina Collahuasi,-21.017 ,-68.510,2023-09-07,23:40:58,2023-09-08,02:40:58,132,km,3.6,Ml
+28 km al N de Talca,-35.175 ,-71.673,2023-09-07,22:55:19,2023-09-08,01:55:19,55,km,2.7,Ml
+55 km al N de Huasco,-27.993 ,-71.068,2023-09-07,21:10:27,2023-09-08,00:10:27,33,km,3.2,Ml
