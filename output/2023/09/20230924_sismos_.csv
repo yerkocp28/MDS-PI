@@ -1,0 +1,12 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+83 km al O de Iquique,-20.017 ,-70.922,2023-09-24,20:34:55,2023-09-24,23:34:55,16,km,3.3,Ml
+58 km al N de Calama,-21.969 ,-68.765,2023-09-24,20:00:57,2023-09-24,23:00:57,124,km,3.8,Ml
+11 km al S de Huasco,-28.560 ,-71.190,2023-09-24,16:31:11,2023-09-24,19:31:11,55,km,3.1,Ml
+16 km al O de Punitaqui,-30.865 ,-71.415,2023-09-24,11:55:55,2023-09-24,14:55:55,53,km,2.7,Ml
+2 km al O de Alto del Carmen,-28.755 ,-70.503,2023-09-24,09:23:21,2023-09-24,12:23:21,89,km,2.8,Ml
+32 km al E de MarÃ­a Elena,-22.370 ,-69.347,2023-09-24,08:46:43,2023-09-24,11:46:43,108,km,3.0,Ml
+75 km al NE de San Pedro de Atacama,-22.357 ,-67.789,2023-09-24,08:37:05,2023-09-24,11:37:05,198,km,3.5,Ml
+47 km al SO de Mina Collahuasi,-21.190 ,-68.890,2023-09-24,07:44:34,2023-09-24,10:44:34,119,km,3.9,Ml
+62 km al NO de ConstituciÃ³n,-34.962 ,-72.923,2023-09-24,05:22:18,2023-09-24,08:22:18,36,km,3.3,Ml
+24 km al SE de Mina Los Pelambres,-31.925 ,-70.357,2023-09-24,03:05:27,2023-09-24,06:05:27,134,km,2.5,Ml
+2 km al E de San JosÃ© de Maipo,-33.634 ,-70.332,2023-09-24,00:39:51,2023-09-24,03:39:51,110,km,3.0,Ml
