@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+50 km al E de Talca,-35.581 ,-71.149,2023-10-11,20:31:21,2023-10-11,23:31:21,102,km,3.2,Ml
+7 km al S de Ovalle,-30.668 ,-71.207,2023-10-11,18:58:58,2023-10-11,21:58:58,59,km,3.8,Ml
+16 km al NE de La Higuera,-29.416 ,-71.074,2023-10-11,17:50:07,2023-10-11,20:50:07,56,km,2.9,Ml
+58 km al N de Pica,-20.000 ,-69.131,2023-10-11,11:40:23,2023-10-11,14:40:23,91,km,3.9,Ml
+58 km al SO de Mina Collahuasi,-21.064 ,-69.160,2023-10-11,11:25:06,2023-10-11,14:25:06,70,km,2.5,Ml
+14 km al N de CamiÃ±a,-19.193 ,-69.400,2023-10-11,02:29:51,2023-10-11,05:29:51,102,km,4.8,Mw
+39 km al N de Vallenar,-28.243 ,-70.635,2023-10-10,23:50:24,2023-10-11,02:50:24,57,km,3.4,Ml
+59 km al S de Pozo Almonte,-20.779 ,-69.883,2023-10-10,22:59:16,2023-10-11,01:59:16,28,km,2.8,Ml
