@@ -1,0 +1,8 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+57 km al SO de OllagÃ¼e,-21.685 ,-68.494,2023-10-25,14:03:12,2023-10-25,17:03:12,129,km,2.8,Ml
+43 km al E de Sierra Gorda.,-23.039 ,-68.925,2023-10-25,13:36:39,2023-10-25,16:36:39,113,km,2.8,Ml
+48 km al SO de Mina Collahuasi,-21.113 ,-69.001,2023-10-25,12:51:45,2023-10-25,15:51:45,104,km,2.7,Ml
+15 km al SO de Cuya,-19.279 ,-70.244,2023-10-25,10:29:27,2023-10-25,13:29:27,59,km,2.8,Ml
+24 km al O de Taltal,-25.391 ,-70.729,2023-10-25,08:13:20,2023-10-25,11:13:20,58,km,3.1,Ml
+72 km al NE de San Pedro de Atacama,-22.592 ,-67.590,2023-10-25,01:14:09,2023-10-25,04:14:09,201,km,3.5,Ml
+46 km al S de Calama,-22.870 ,-68.815,2023-10-24,21:37:37,2023-10-25,00:37:37,84,km,3.1,Ml
