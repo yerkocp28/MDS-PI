@@ -1,0 +1,6 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+43 km al E de San Pedro de Atacama,-22.979 ,-67.781,2023-12-05,17:30:55,2023-12-05,20:30:55,188,km,3.4,Ml
+26 km al SO de Arica,-18.619 ,-70.518,2023-12-05,15:27:41,2023-12-05,18:27:41,41,km,3.4,Ml
+37 km al E de Los Andes.,-32.800 ,-70.209,2023-12-05,12:50:27,2023-12-05,15:50:27,118,km,3.1,Ml
+42 km al NE de CamiÃ±a,-19.084 ,-69.103,2023-12-05,05:46:44,2023-12-05,08:46:44,121,km,3.0,Ml
+242 km al O de Huasco,-28.914 ,-73.645,2023-12-05,03:33:06,2023-12-05,06:33:06,10,km,4.4,Ml
