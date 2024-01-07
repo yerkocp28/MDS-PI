@@ -1,0 +1,7 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+15 km al SO de Canela Baja,-31.514 ,-71.541,2024-01-06,16:30:14,2024-01-06,19:30:14,40,km,3.4,Ml
+41 km al S de Mina Collahuasi,-21.197 ,-68.705,2024-01-06,10:53:12,2024-01-06,13:53:12,117,km,2.8,Ml
+38 km al S de Sierra Gorda.,-23.242 ,-69.366,2024-01-06,02:41:21,2024-01-06,05:41:21,99,km,2.6,Ml
+65 km al SO de Pica,-20.838 ,-69.828,2024-01-05,23:13:55,2024-01-06,02:13:55,55,km,2.5,Ml
+19 km al SE de Los Vilos,-32.061 ,-71.424,2024-01-05,23:05:48,2024-01-06,02:05:48,56,km,2.8,Ml
+7 km al NO de Huasco,-28.404 ,-71.247,2024-01-05,22:51:30,2024-01-06,01:51:30,53,km,3.4,Ml
