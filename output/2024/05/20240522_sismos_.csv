@@ -1,0 +1,8 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+31 km al S de Mina La Escondida.,-24.543 ,-69.093,2024-05-22,19:19:55,2024-05-22,23:19:55,102,km,3.3,Ml
+106 km al SE de Socaire,-24.334 ,-67.243,2024-05-22,15:36:06,2024-05-22,19:36:06,206,km,4.7,Mw
+18 km al N de Quillagua,-21.499 ,-69.499,2024-05-22,10:41:05,2024-05-22,14:41:05,71,km,2.9,Ml
+67 km al NE de Calama,-21.938 ,-68.629,2024-05-22,06:23:17,2024-05-22,10:23:17,113,km,3.3,Ml
+38 km al N de ValparaÃ­so,-32.717 ,-71.730,2024-05-22,04:49:52,2024-05-22,08:49:52,28,km,2.7,Ml
+15 km al SO de Salamanca,-31.844 ,-71.103,2024-05-22,03:46:13,2024-05-22,07:46:13,50,km,2.9,Ml
+27 km al NO de Mina Collahuasi,-20.704 ,-68.885,2024-05-22,03:05:44,2024-05-22,07:05:44,100,km,2.5,Ml
