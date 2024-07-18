@@ -1,0 +1,12 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+21 km al SE de San Antonio,-33.713 ,-71.458,2024-07-17,18:27:20,2024-07-17,22:27:20,45,km,2.6,Ml
+44 km al NE de Calama,-22.160 ,-68.670,2024-07-17,17:25:30,2024-07-17,21:25:30,105,km,2.9,Ml
+71 km al O de San Antonio de los Cobres,-23.994 ,-66.972,2024-07-17,14:39:20,2024-07-17,18:39:20,206,km,3.5,Ml
+57 km al N de San Pedro de Atacama,-22.432 ,-68.355,2024-07-17,13:21:11,2024-07-17,17:21:11,137,km,3.8,Ml
+10 km al S de Los Vilos,-31.996 ,-71.534,2024-07-17,11:28:43,2024-07-17,15:28:43,38,km,2.6,Ml
+35 km al NE de Tacna,-17.875 ,-69.958,2024-07-17,09:43:34,2024-07-17,13:43:34,102,km,3.6,Ml
+6 km al SO de Canela Baja,-31.442 ,-71.488,2024-07-17,05:58:48,2024-07-17,09:58:48,43,km,3.4,Ml
+37 km al N de Punta de Choros,-28.926 ,-71.385,2024-07-17,05:34:13,2024-07-17,09:34:13,40,km,3.3,Ml
+33 km al NE de CamiÃ±a,-19.040 ,-69.300,2024-07-17,03:12:29,2024-07-17,07:12:29,115,km,3.4,Ml
+22 km al S de Punitaqui,-31.018 ,-71.326,2024-07-17,02:53:14,2024-07-17,06:53:14,65,km,3.2,Ml
+12 km al NE de Pichidangui,-32.054 ,-71.449,2024-07-16,22:49:10,2024-07-17,02:49:10,40,km,2.6,Ml
