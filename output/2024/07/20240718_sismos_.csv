@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+41 km al N de Mejillones,-22.738 ,-70.400,2024-07-18,19:15:29,2024-07-18,23:15:29,43,km,2.6,Ml
+67 km al SE de CamiÃ±a,-19.824 ,-69.091,2024-07-18,14:19:57,2024-07-18,18:19:57,101,km,3.0,Ml
+46 km al S de Mina Collahuasi,-21.228 ,-68.766,2024-07-18,10:38:50,2024-07-18,14:38:50,118,km,3.0,Ml
+55 km al SO de Mina Collahuasi,-21.085 ,-69.112,2024-07-18,10:15:18,2024-07-18,14:15:18,109,km,2.5,Ml
+7 km al SO de Ovalle,-30.640 ,-71.259,2024-07-18,10:01:16,2024-07-18,14:01:16,52,km,4.3,Ml
+34 km al SO de Pichidangui,-32.292 ,-71.837,2024-07-18,09:54:12,2024-07-18,13:54:12,8,km,2.5,Ml
+43 km al NO de Patache,-20.614 ,-70.564,2024-07-18,08:30:55,2024-07-18,12:30:55,19,km,2.5,Ml
+68 km al S de Socaire,-24.197 ,-67.805,2024-07-18,05:37:06,2024-07-18,09:37:06,234,km,3.8,Ml
