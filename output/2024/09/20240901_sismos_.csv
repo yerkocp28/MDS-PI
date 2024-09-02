@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+48 km al S de Tocopilla,-22.506 ,-70.325,2024-09-01,15:14:56,2024-09-01,19:14:56,18,km,2.5,Ml
+34 km al O de La Serena,-29.873 ,-71.599,2024-09-01,12:24:42,2024-09-01,16:24:42,37,km,3.3,Ml
+32 km al NO de Mina Collahuasi,-20.638 ,-68.889,2024-09-01,11:53:32,2024-09-01,15:53:32,110,km,3.1,Ml
+32 km al E de Talca,-35.469 ,-71.322,2024-09-01,05:34:10,2024-09-01,09:34:10,98,km,2.5,Ml
+45 km al SE de Paihuano,-30.354 ,-70.232,2024-09-01,02:09:58,2024-09-01,06:09:58,97,km,3.3,Ml
+8 km al SE de Pica,-20.524 ,-69.263,2024-08-31,22:09:13,2024-09-01,02:09:13,92,km,3.9,Ml
+32 km al O de La Serena,-29.881 ,-71.584,2024-08-31,21:19:40,2024-09-01,01:19:40,37,km,3.7,Ml
+59 km al NE de Calama,-21.983 ,-68.711,2024-08-31,20:52:57,2024-09-01,00:52:57,108,km,2.7,Ml
