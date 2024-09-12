@@ -1,0 +1,10 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+55 km al NE de Calama,-22.028 ,-68.701,2024-09-11,19:32:51,2024-09-11,22:32:51,114,km,2.7,Ml
+12 km al NE de Carrizal Bajo,-27.995 ,-71.081,2024-09-11,15:53:13,2024-09-11,18:53:13,40,km,2.9,Ml
+81 km al E de Alto del Carmen,-28.949 ,-69.683,2024-09-11,11:40:52,2024-09-11,14:40:52,128,km,4.5,Mw
+75 km al NE de San Pedro de Atacama,-22.625 ,-67.539,2024-09-11,08:21:39,2024-09-11,11:21:39,271,km,3.9,Ml
+21 km al SO de Sierra Gorda,-23.026 ,-69.467,2024-09-11,07:28:25,2024-09-11,10:28:25,78,km,3.5,Ml
+117 km al E de CopiapÃ³,-27.761 ,-69.236,2024-09-11,05:59:36,2024-09-11,08:59:36,100,km,3.5,Ml
+76 km al SO de OllagÃ¼e,-21.821 ,-68.615,2024-09-11,02:46:58,2024-09-11,05:46:58,112,km,2.9,Ml
+55 km al O de San Pedro de Atacama,-23.015 ,-68.730,2024-09-10,21:38:10,2024-09-11,00:38:10,102,km,2.9,Ml
+6 km al O de Putre,-18.203 ,-69.617,2024-09-10,21:19:59,2024-09-11,00:19:59,123,km,4.5,Mw
