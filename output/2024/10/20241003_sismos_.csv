@@ -1,0 +1,8 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+74 km al NE de Calama,-21.852 ,-68.652,2024-10-03,14:08:51,2024-10-03,17:08:51,111,km,2.5,Ml
+40 km al N de Punta de Choros,-28.906 ,-71.357,2024-10-03,13:07:44,2024-10-03,16:07:44,44,km,3.4,Ml
+31 km al O de La Higuera,-29.629 ,-71.495,2024-10-03,12:53:28,2024-10-03,15:53:28,67,km,2.9,Ml
+31 km al S de CamiÃ±a,-19.579 ,-69.515,2024-10-03,11:58:45,2024-10-03,14:58:45,87,km,2.8,Ml
+80 km al E de CopiapÃ³,-27.437 ,-69.528,2024-10-03,10:41:08,2024-10-03,13:41:08,109,km,3.7,Ml
+16 km al SO de Calama,-22.573 ,-69.033,2024-10-03,00:45:58,2024-10-03,03:45:58,123,km,3.0,Ml
+69 km al N de Tocopilla,-21.507 ,-70.417,2024-10-03,00:43:29,2024-10-03,03:43:29,43,km,2.8,Ml
