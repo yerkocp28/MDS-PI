@@ -1,0 +1,13 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+52 km al NO de Tongoy,-29.974 ,-71.929,2024-11-03,19:35:13,2024-11-03,22:35:13,41,km,3.0,Ml
+92 km al S de Ilo,-18.468 ,-71.223,2024-11-03,18:31:53,2024-11-03,21:31:53,37,km,2.5,Ml
+65 km al S de Mina Collahuasi,-21.379 ,-68.857,2024-11-03,16:41:13,2024-11-03,19:41:13,100,km,3.2,Ml
+133 km al E de Alto del Carmen,-28.313 ,-69.219,2024-11-03,10:47:39,2024-11-03,13:47:39,117,km,4.3,Ml
+78 km al O de San Antonio de los Cobres,-24.028 ,-67.059,2024-11-03,04:48:04,2024-11-03,07:48:04,228,km,3.1,Ml
+102 km al E de San Pedro de Atacama,-22.704 ,-67.230,2024-11-03,02:39:11,2024-11-03,05:39:11,226,km,3.2,Ml
+45 km al SO de Mina Collahuasi,-21.121 ,-68.962,2024-11-03,02:06:36,2024-11-03,05:06:36,118,km,2.6,Ml
+23 km al E de Punta de Choros,-29.265 ,-71.230,2024-11-03,01:16:39,2024-11-03,04:16:39,52,km,4.3,Ml
+103 km al SE de Termas del Flaco,-35.660 ,-69.690,2024-11-03,01:04:04,2024-11-03,04:04:04,199,km,5.4,Mw
+36 km al E de OllagÃ¼e,-21.255 ,-67.904,2024-11-03,00:12:15,2024-11-03,03:12:15,209,km,3.0,Ml
+49 km al NE de Alto del Carmen,-28.352 ,-70.298,2024-11-02,22:46:34,2024-11-03,01:46:34,99,km,2.5,Ml
+67 km al SE de Socaire,-23.945 ,-67.364,2024-11-02,21:01:39,2024-11-03,00:01:39,204,km,3.2,Ml
