@@ -1,0 +1,9 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+13 km al N de Pica,-20.380 ,-69.291,2024-11-22,17:45:40,2024-11-22,20:45:40,101,km,3.3,Ml
+27 km al NO de Mina La Escondida,-24.067 ,-69.207,2024-11-22,15:11:56,2024-11-22,18:11:56,101,km,3.4,Ml
+16 km al NE de Quintero,-32.672 ,-71.412,2024-11-22,13:57:29,2024-11-22,16:57:29,50,km,2.5,Ml
+53 km al O de San Pedro de Atacama,-23.079 ,-68.691,2024-11-22,12:39:12,2024-11-22,15:39:12,87,km,2.6,Ml
+56 km al NE de Calama,-22.025 ,-68.673,2024-11-22,10:20:58,2024-11-22,13:20:58,134,km,2.5,Ml
+18 km al S de La Serena,-30.053 ,-71.309,2024-11-22,05:33:32,2024-11-22,08:33:32,54,km,3.3,Ml
+13 km al E de Parque Fray Jorge,-30.626 ,-71.556,2024-11-22,01:19:47,2024-11-22,04:19:47,25,km,2.6,Ml
+11 km al O de Visviri,-17.622 ,-69.580,2024-11-21,23:30:29,2024-11-22,02:30:29,163,km,4.5,Mw
